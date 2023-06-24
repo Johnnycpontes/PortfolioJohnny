@@ -226,7 +226,7 @@ section .title::after{
     object-fit: cover;
     border-radius: 6px;
 }
-/*  sessão serviços */
+/*  sessão projetos */
 .services, .teams{
     background: #111;
     color: #fff;
