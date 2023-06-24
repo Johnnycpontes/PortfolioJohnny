@@ -238,7 +238,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "Que oferecemos";
+    content: "Em desenvolvimento";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -272,7 +272,7 @@ section .title::after{
 }
 /*  sessão especialidades  */
 .skills .title::after{
-    content: "Que faço";
+    content: "O que faço";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
