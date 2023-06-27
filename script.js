@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Engenheiro de Software", "Back-End", "Front-End", "Dev Mobile"],
+         strings:["Engenheira de Software", "Back-End", "Dev Mobile"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Engenheiro de Software", "Back-End", "Front-End", "Dev Mobile"],
+        strings:["Engenheira de Software", "Back-End", "Dev Mobile"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
