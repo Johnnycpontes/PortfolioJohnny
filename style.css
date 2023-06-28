@@ -616,3 +616,7 @@ footer span a:hover{
         font-size: 27px;
     }
 }
+a{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
